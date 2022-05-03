@@ -11,3 +11,4 @@ A simple tool written in Python to make calculating your grade easier (based on 
 - Object Oriented Programming in Python
 - Making the script suited for multiple operating systems
 - Creating tools in Python
+- Validating user input
