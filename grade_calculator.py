@@ -103,4 +103,5 @@ if __name__ == '__main__':
         print(f"{grade.grade_name}: Scored - {grade.actual_percentage}% | Weight on module - {grade.percentage_weight}%")
 
     print("-----------------------------------------------------------------------------------")
+    exit = input("Press any key to exit...")
     
