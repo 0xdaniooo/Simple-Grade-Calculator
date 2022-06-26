@@ -13,6 +13,11 @@ A simple command line tool written in Python to make calculating your grades eas
 - Creating tools in Python
 - Validating user input
 
+# Usage
+```
+- Run the grade_calculator.py script with Python
+```
+
 # Enter Module Name
 ![Module Name](/Imgs/1.png)
 
