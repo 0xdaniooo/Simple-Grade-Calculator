@@ -13,16 +13,21 @@ A simple command line tool written in Python to make calculating your grades eas
 - Creating tools in Python
 - Validating user input
 
-# Usage
+## Usage
 ```
-- Run the grade_calculator.py script with Python
+- Run the grade_calculator.py script with Python:
+  python grade_calculator.py
 ```
 
-# Enter Module Name
+## YouTube Video Showcase
+If you want to see the program in action click the link below
+- https://www.youtube.com/watch?v=hA7XPH1jf6I
+
+## Enter Module Name
 ![Module Name](/Imgs/1.png)
 
-# Enter Grade 
+## Enter Grade 
 ![Grade](/Imgs/2.png)
 
-# Results
+## Receive Your Results
 ![Results](/Imgs/3.png)
