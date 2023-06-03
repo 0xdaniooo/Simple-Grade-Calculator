@@ -1,6 +1,9 @@
 # Simple-Grade-Calculator
 A simple command line tool written in Python to make calculating your grades easier (based on percentages)
 
+## About 
+After finishing my first year of University, I wanted to get back into coding. Making a grade calculator was thus fitting for the occassion as it was a tool I could use for my own purposes and something which would allow me to return to the realm of programming.
+
 ## Features
 - Ability to add a module
 - Add multiple grades (up to a total of 100%)
