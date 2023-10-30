@@ -4,7 +4,7 @@ A simple command line tool written in Python to make calculating your grades eas
 See it in action here: https://www.youtube.com/watch?v=hA7XPH1jf6I
 
 ## About 
-Having just finished my C++ Bank System project, I wanted to continue programming to keep myself entertained. I decided to make a grade calculator as that was something that could be of use for me to calcualte my grades ahead of them being released for our results day. Aside from that, this also served as a good project to experiment more with Python as it's a language I had less experience with at the time.
+Having just finished my C++ Bank System project, I wanted to continue programming to keep myself entertained. I decided to make a grade calculator as that was something that could be of use for me to calculate my grades ahead of them being released for our results day. Aside from that, this also served as a good project to experiment more with Python as it's a language I had less experience with at the time.
 
 ## Features
 - Ability to add a module
